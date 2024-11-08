@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px; 
+    margin: 0 auto;
+}
+
+.item {
+    flex: 1 0 33.33%; 
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
