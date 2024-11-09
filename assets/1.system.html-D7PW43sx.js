@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./app-L-Mq7TiQ.js";const a={};function r(n,c){return s(),t("div")}const o=e(a,[["render",r],["__file","1.system.html.vue"]]),_=JSON.parse('{"path":"/series/nas/1.system.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"series/nas/1.system.md"}');export{o as comp,_ as data};

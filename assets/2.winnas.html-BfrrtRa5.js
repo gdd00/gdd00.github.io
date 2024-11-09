@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as t}from"./app-L-Mq7TiQ.js";const a={};function s(r,c){return t(),n("div")}const o=e(a,[["render",s],["__file","2.winnas.html.vue"]]),_=JSON.parse('{"path":"/series/nas/2.winnas.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"series/nas/2.winnas.md"}');export{o as comp,_ as data};
